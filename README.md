@@ -1,0 +1,2 @@
+# websiteAssets
+For hosting assets
